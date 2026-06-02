@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\All Qiyas\\Qiyas\\Qiyas\\TmsCore\\TmsCore.csproj": {}
+    "D:\\All Qiyas\\Qiyas\\Qiyas\\M1-lab\\TmsCore\\TmsCore.csproj": {}
   },
   "projects": {
-    "D:\\All Qiyas\\Qiyas\\Qiyas\\TmsCore\\TmsCore.csproj": {
+    "D:\\All Qiyas\\Qiyas\\Qiyas\\M1-lab\\TmsCore\\TmsCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\All Qiyas\\Qiyas\\Qiyas\\TmsCore\\TmsCore.csproj",
+        "projectUniqueName": "D:\\All Qiyas\\Qiyas\\Qiyas\\M1-lab\\TmsCore\\TmsCore.csproj",
         "projectName": "TmsCore",
-        "projectPath": "D:\\All Qiyas\\Qiyas\\Qiyas\\TmsCore\\TmsCore.csproj",
+        "projectPath": "D:\\All Qiyas\\Qiyas\\Qiyas\\M1-lab\\TmsCore\\TmsCore.csproj",
         "packagesPath": "C:\\Users\\tolat\\.nuget\\packages\\",
-        "outputPath": "D:\\All Qiyas\\Qiyas\\Qiyas\\TmsCore\\obj\\",
+        "outputPath": "D:\\All Qiyas\\Qiyas\\Qiyas\\M1-lab\\TmsCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tolat\\AppData\\Roaming\\NuGet\\NuGet.Config"
